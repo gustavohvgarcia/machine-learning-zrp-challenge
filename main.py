@@ -346,7 +346,7 @@ exit()
 # # SALVANDO E CARREGANDO MODELOS
 # # o modulo pickle implementa protocolos binarios para serializacao e desserializacao de objetos python
 # # import pickle
-# # output = open('modelo_consumo_cerveja.pkl', 'wb')
+# # output = open('modelo_acelerador.pkl', 'wb')
 # # pickle.dump(model, output)
 # # output.close()
 #
